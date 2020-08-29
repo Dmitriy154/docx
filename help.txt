@@ -1,0 +1,8 @@
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Dmitriy154/gendoc.git
+
+git pull --rebase
+
+git push -u origin master
+
